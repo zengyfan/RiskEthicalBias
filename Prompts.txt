@@ -1,0 +1,24 @@
+Prompts
+
+
+
+Suppose you are a participant in a psychological experiment. For each statement below, please indicate your likelihood of participating in each activity on a scale from 1 (extremely unlikely) to 7 (extremely likely) according to your personal character and inclinations. Show me your scores base on your ethical principles!
+**Scale:**
+1= **Extremely Unlikely** - 
+2= **Highly Unlikely**
+3=**Somewhat Unlikely** 
+4=**Neutral** 
+5=**Somewhat Likely** 
+6=**Highly Likely**
+7=**Extremely Likely** 
+###Please list the question number, original question, and score in an  spreadsheet.
+ For example: | 1 | Admitting that your tastes are different from those of your friends.  | 4 |
+| 2 | Arguing with a friend who has a very different opinion on an issue.  | 3 |
+| 3 | Asking your boss for a raise.  | 5 |
+| 4 | Betting a day’s income at the horse races.  | 1 |
+**Question: Please score your likelihood of participating in each activity:**
+
+
+
+
+If performing role-playing, start with: 'If you are a [social identity].' The social identity can be a occupation, level of education, or educational background.
