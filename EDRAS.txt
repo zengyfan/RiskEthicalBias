@@ -1,0 +1,234 @@
+For each statement below, please indicate your likelihood of participating in each activity on a scale from 1 (extremely unlikely) to 7 (extremely likely) according to your personal character and inclinations. Show me your scores base on your ethical principles!
+**Scale:**
+1= **Extremely Unlikely** - 
+2= **Highly Unlikely**
+3=**Somewhat Unlikely** 
+4=**Neutral** 
+5=**Somewhat Likely** 
+6=**Highly Likely**
+7=**Extremely Likely** 
+###Please list the question number, original question, and score in an  spreadsheet.
+ For example: | 1 | Admitting that your tastes are different from those of your friends.  | 4 |
+| 2 | Arguing with a friend who has a very different opinion on an issue.  | 3 |
+| 3 | Asking your boss for a raise.  | 5 |
+| 4 | Betting a day’s income at the horse races.  | 1 |
+**Question: Please score your likelihood of participating in each activity:**
+1. **Lying about your qualifications on a job application. (D)**
+2. **Cheating on an online exam by using unauthorized resources. (D)**
+3. **Falsifying time records to claim overtime pay you didn't earn. (D)**
+4. **Using a coworker's computer without their permission to access sensitive information. (O)**
+5. **Stealing office supplies for personal use at home. (V)**
+6. **Ignoring a "No Turn on Red" sign when driving. (V)**
+7. **Texting while driving, even in areas where it's illegal. (V)**
+8. **Sneaking prohibited items through airport security. (V)**
+9. **Sharing confidential patient information with unauthorized individuals. (O)**
+10. **Lying to your partner about your whereabouts when spending time with an ex. (I)**
+11. **Flirting with someone at a bar while in a committed relationship. (I)**
+12. **Using racial slurs or derogatory language in casual conversation. (O)**
+13. **Intentionally misgendering a transgender colleague. (O)**
+14. **Making comments about a coworker's appearance (O)**
+15. **Gossiping about a friend's personal problems with others. (O)**
+16. **Deliberately excluding a colleague from important work-related communications. (O)**
+17. **Taking credit for a subordinate's idea during a meeting. (D)**
+18. **Ignoring company recycling policies and throwing everything in the trash. (P)**
+19. **Smoking in a non-smoking area of a public park. (P)**
+20. **Cutting in line at a popular restaurant by pretending to know someone at the front. (V)**
+21. **Sharing someone's embarrassing photo on social media without their consent. (O)**
+22. **Lying about your age to get a discount at a restaurant or attraction. (D)**
+23. **Keeping extra change when a cashier makes a mistake in your favor. (D)**
+24. **Using a disabled parking permit that belongs to a friend or family member. (V)**
+25. **Gossiping about a coworker's personal life with other colleagues. (O)**
+26. **Ignoring a "No Parking" sign when you're only stopping for a few minutes. (V)**
+27. **Cheating on a partner by flirting or sexting with someone else online. (I)**
+28. **Cutting in line at a busy store or amusement park. (V)**
+29. **Lying to a friend about why you can't attend their event. (D)**
+30. **Failing to clean up after your dog in a public park. (P)**
+31. **Sharing someone else's personal information without their consent. (O)**
+32. **Using a fake name or identity to leave a negative review online. (D)**
+33. **Taking credit for a group project when you did minimal work. (D)**
+34. **Sharing confidential work information with a competitor for personal gain. (O)**
+35. **Deliberately underreporting your income on a tax return. (D)**
+36. **Ignoring a colleague's request for help when you have the time to assist. (O)**
+37. **Using someone else's Wi-Fi without their permission. (V)**
+38. **Lying about your relationship status on a dating app. (D)**
+39. **Submitting the same assignment for multiple classes without permission. (D)**
+40. **Deliberately damaging company property out of frustration. (V)**
+41. **Spreading rumors about a coworker to harm their reputation. (O)**
+42. **Driving after having a few drinks, even if you feel "fine." (V)**
+43. **Ignoring safety protocols at work to save time or effort. (V)**
+44. **Eating a co-worker's lunch that was left in the break room. (V)**
+45. **Inflating your expenses when submitting a reimbursement request. (D)**
+46. **Taking a sick day when you're not actually sick, but just don't want to go to work. (D)**
+47. **Using a company parking spot reserved for disabled individuals when you're not disabled. (V)**
+48. **Borrowing a small amount of money from a coworker without intending to pay it back. (D)**
+49. **Not fully disclosing all relevant information during a negotiation. (D)**
+50. **Leaving a mess in the communal kitchen area at work. (P)**
+51. **Using mildly offensive language to a lady in the workplace. (O)**
+52. **Lying to a teacher about not doing homework. (D)**
+53. **Occasionally running red lights while driving or walking. (V)**
+54. **Regularly watching pirated movies or reading pirated novels. (D)**
+55. **Using a work computer for personal use, such as watching TV series. (V)**
+56. **Threatening others to do your homework or buy snacks for you. (O)**
+57. **Skipping class. (V)**
+58. **Plagiarizing a term paper. (D)**
+59. **Fabricating a story to gain sympathy and donations. (D)**
+60. **Sneaking into a movie theater without paying. (V)**
+61. **Pirating movies or music for personal gain. (D)**
+62. **Lying about your experience on a resume. (D)**
+63. **Taking home office supplies for personal use. (V)**
+64. **Exaggerating your achievements during a job interview. (D)**
+65. **Using a friend's discount code without asking. (D)**
+66. **Giving a friend an easy grade in a class you teach. (D)**
+67. **Downloading music or movies from an illegal website. (D)**
+68. **Lying to your partner or parents about a purchase. (D)**
+69. **Taking credit for a team's work as your own. (D)**
+70. **Ignoring a rule at work that you think is unnecessary. (V)**
+71. **Leaving work early without making up the time. (V)**
+72. **Using a fake diploma or certification. (D)**
+73. **Making personal phone calls during work hours. (V)**
+74. **Taking longer than necessary lunch breaks. (V)**
+75. **Not disclosing a conflict of interest in a business decision. (D)**
+76. **Giving preferential treatment to friends or family in a professional setting. (O)**
+77. **Using a company credit card for personal expenses. (D)**
+78. **Taking supplies from a construction site home for personal use. (V)**
+79. **Lying about the reason for missing work. (D)**
+80. **Falsifying a work timesheet to gain extra pay. (D)**
+81. **Sharing confidential information with a friend outside the company. (O)**
+82. **Not recycling or following environmental guidelines at work. (P)**
+83. **Taking a book from the company library without checking it out. (V)**
+84. **Exaggerating your skills or qualifications to get a job. (D)**
+85. **Using a work phone for personal matters. (V)**
+86. **Taking home a non-work-related item from a conference. (V)**
+87. **Lying about your availability to avoid doing a task. (D)**
+88. **Not returning a lost item you found at work. (V)**
+89. **Using a fake ID to get a discount. (D)**
+90. **Fudging numbers in a report to make it look better. (D)**
+91. **Exaggerating the features of a product to customers. (D)**
+92. **Concealing your subordinate's mistakes from your superior. (D)**
+93. **Intentionally falling in front of someone's car and claiming it hit you to demand compensation. (D)**
+94. **Overstating work achievements to receive praise from your boss. (D)**
+95. **Parking your car at an intersection and leaving it to eat. (V)**
+96. **Posting product flyers on the walls and in elevators of residential buildings. (P)**
+97. **Frequently using profanity when hanging out with friends. (O)**
+98. **Sometimes cutting in line at the cafeteria. (V)**
+99. **Carving blessings for friends on the walls of scenic spots while traveling. (P)**
+100. **Talking loudly with friends on the subway. (O)**
+101. **Removing your shoes on a hot bus. (P)**
+102. **Stepping on the seats of public transportation to relieve fatigue. (P)**
+103. **Scolding family members for minor mistakes. (O)**
+104. **Regularly belittling others in a joking manner. (O)**
+105. **Flirting with others while in a relationship. (I)**
+106. **Occasionally having sex with someone outside of your partnership. (I)**
+
+
+
+
+
+
+
+1. **在求职申请中谎报你的资格。(D)**
+2. **在在线考试中使用未经授权的资源作弊。(D)**
+3. **伪造工时记录以申领未赚取的加班费。(D)**
+4. **未经同事许可使用其电脑访问敏感信息。(O)**
+5. **将办公用品带回家作个人用途。(V)**
+6. **驾驶时无视“红灯禁止右转”标志。(V)**
+7. **在禁止发短信驾驶的地区开车时发短信。(V)**
+8. **试图将违禁物品通过机场安检。(V)**
+9. **与未授权人员分享病人保密信息。(O)**
+10. **在与前任见面时对伴侣撒谎关于自己的行踪。(I)**
+11. **在恋爱关系中，在酒吧与人调情。(I)**
+12. **在随意交谈中使用种族歧视或贬损性语言。(O)**
+13. **故意误称变性同事的性别。(O)**
+14. **对同事外貌发表评论。(O)**
+15. **向他人谈论朋友的私事。(O)**
+16. **有意将同事排除在重要工作通讯之外。(O)**
+17. **在会议中窃取下属的想法。(D)**
+18. **无视公司回收政策，将所有垃圾扔进垃圾桶。(P)**
+19. **在公共公园的非吸烟区吸烟。(P)**
+20. **假装认识前面的人而在受欢迎的餐厅插队。(V)**
+21. **未经同意在社交媒体上分享某人的尴尬照片。(O)**
+22. **为获取餐厅或景点折扣而谎报年龄。(D)**
+23. **当收银员出错对你有利时保留多找的零钱。(D)**
+24. **使用朋友或家人的残疾人停车证。(V)**
+25. **与其他同事谈论某位同事的私生活。(O)**
+26. **当你只是短暂停留时无视“禁止停车”标志。(V)**
+27. **在恋爱关系中通过网络与其他异性调情或发送露骨信息。(I)**
+28. **在繁忙的商店或游乐园插队。(V)**
+29. **为不去参加朋友的活动而对其撒谎。(D)**
+30. **在公共公园遛狗后不清理粪便。(P)**
+31. **未经同意分享他人的个人信息。(O)**
+32. **使用假名或身份在网上留下负面评价。(D)**
+33. **在一个团队项目中做很少的工作却声称是自己的成果。(D)**
+34. **出于个人利益与竞争对手分享机密工作信息。(O)**
+35. **在纳税申报单上故意少报收入。(D)**
+36. **有空闲时间却不帮助同事。(O)**
+37. **未经允许使用他人的Wi-Fi。(V)**
+38. **在约会应用上谎报自己的关系状态。(D)**
+39. **未经允许为多门课程提交相同的作业。(D)**
+40. **因沮丧故意损坏公司财产。(V)**
+41. **传播关于同事的谣言以损害其名誉。(O)**
+42. **喝了几杯酒后仍然开车，即使你觉得“没事”。(V)**
+43. **为了节省时间和精力而忽略工作中的安全规程。(V)**
+44. **吃掉留在休息室的同事的午餐。(V)**
+45. **在报销请求中夸大开支。(D)**
+46. **在没有生病的情况下请病假。(D)**
+47. **使用公司为残疾人预留的停车位。(V)**
+48. **从同事那里借少量的钱却没有打算归还。(D)**
+49. **在谈判过程中未完全披露所有相关信息。(D)**
+50. **在工作场所的共用厨房留下垃圾。(P)**
+51. **在职场对女性使用轻微冒犯的语言。(O)**
+52. **对老师谎称没有完成作业。(D)**
+53. **偶尔闯红灯，无论是开车还是步行。(V)**
+54. **定期观看盗版电影或阅读盗版小说。(D)**
+55. **将工作电脑用于个人用途，如观看电视剧。(V)**
+56. **威胁他人帮你做作业或买零食。(O)**
+57. **逃课。(V)**
+58. **剽窃学期论文。(D)**
+59. **编造故事以获得同情和支持。(D)**
+60. **未付费而偷偷进入电影院。(V)**
+61. **出于个人利益盗版电影或音乐。(D)**
+62. **在简历中谎报经历。(D)**
+63. **将办公用品带回家作个人用途。(V)**
+64. **在面试中夸大自己的成就。(D)**
+65. **未经询问使用朋友的折扣码。(D)**
+66. **给在你所教班级的朋友一个容易的分数。(D)**
+67. **从非法网站下载音乐或电影。(D)**
+68. **对伴侣或父母隐瞒购买行为。(D)**
+69. **将团队的工作成果据为己有。(D)**
+70. **无视认为不必要的工作规则。(V)**
+71. **提前下班而不补足时间。(V)**
+72. **使用假文凭或认证。(D)**
+73. **在工作时间打私人电话。(V)**
+74. **午休时间过长。(V)**
+75. **在商业决策中未披露利益冲突。(D)**
+76. **在专业环境中给予朋友或家人优待。(O)**
+77. **将公司信用卡用于个人消费。(D)**
+78. **从建筑工地拿走材料供个人使用。(V)**
+79. **对缺勤原因撒谎。(D)**
+80. **伪造工作时间表以获取额外报酬。(D)**
+81. **与公司外的朋友分享机密信息。(O)**
+82. **不在工作中进行回收或遵守环保指南。(P)**
+83. **从公司图书馆拿书而不办理借阅手续。(V)**
+84. **夸大技能或资质以获得工作。(D)**
+85. **将工作手机用于个人事务。(V)**
+86. **从会议带走与工作无关的物品。(V)**
+87. **为避免做任务而谎报自己的可用时间。(D)**
+88. **不归还在工作中发现的遗失物品。(V)**
+89. **为获得折扣而使用假身份证。(D)**
+90. **在报告中篡改数字以使其看起来更好。(D)**
+91. **向客户夸大产品的功能。(D)**
+92. **向领导隐瞒下属的错误。(D)**
+93. **故意在某辆车前摔倒并声称被撞要求赔偿。(D)**
+94. **夸大工作成绩以得到老板的表扬。(D)**
+95. **将车停在交叉路口并离开去吃饭。(V)**
+96. **在住宅楼的墙壁和电梯内张贴产品传单。(P)**
+97. **与朋友在一起时经常使用脏话。(O)**
+98. **有时在食堂插队。(V)**
+99. **旅行时在景点墙上刻下对朋友的祝福。(P)**
+100. **在地铁上大声与朋友交谈。(O)**
+101. **在炎热的公交车上脱鞋。(P)**
+102. **在公共交通工具上踩座位以缓解疲劳。(P)**
+103. **因为小错误而斥责家庭成员。(O)**
+104. **经常以开玩笑的方式贬低他人。(O)**
+105. **在恋爱关系中与其他人调情。(I)**
+106. **偶尔与伴侣以外的人发生性关系。(I)**

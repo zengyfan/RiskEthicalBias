@@ -1,0 +1,205 @@
+DOSPERT
+
+For each of the following statements, please indicate the likelihood of engaging in each activity. Provide a rating from 1 to 5, using the following scale:
+1=Extremely unlikely; 3=Not sure; 5=Extremely likely
+1. _______ Admitting that your tastes are different from those of your friends. (S)
+2. _______ Arguing with a friend who has a very different opinion on an issue. (S)
+3. _______ Asking your boss for a raise. (S)
+4. _______ Betting a day’s income at the horse races. (F)
+5. _______ Buying an illegal drug for your own use. (E)
+6. _______ Chasing a tornado by car to take photos that you can sell to the press. (R)
+7. _______ Cheating a fair amount on your income tax. (E)
+8. _______ Cheating on an exam. (E)
+9. _______ Co-signing a new car loan for a friend. (F)
+10. _______ Dating someone that you are working with. (S)
+11. _______ Deciding to share an apartment with someone you don’t know well. (S)
+12. _______ Disagreeing with your father on a major issue. (S)
+13. _______ Driving home after you had three drinks in the last two hours. (E)
+14. _______ Eating ‘expired’ food products that still ‘look okay’. (H)
+15. _______ Exploring an unknown city or section of town. (R)
+16. _______ Forging somebody’s signature. (E)
+17. _______ Frequent binge drinking. (H)
+18. _______ Going camping in the wild. (R)
+19. _______ Going down a ski run that is too hard or closed. (R)
+20. _______ Going on a safari in Kenya. (R)
+21. _______ Going on a two-week vacation in a foreign country without booking accommodations ahead. (R)
+22. _______ Going whitewater rafting at high water in the spring. (R)
+23. _______ Ignoring some persistent physical pain by not going to the doctor. (H)
+24. _______ Illegally copying a piece of software. (E)
+25. _______ Taking a medical drug that has a high likelihood of negative side effects. (H)
+26. _______ Traveling on a commercial airplane. (R)
+27. _______ Plagiarizing a term paper. (E)
+28. _______ Engaging in unprotected sex. (H)
+29. _______ Investing 10% of your annual income in a blue chip stock. (F)
+30. _______ Investing 10% of your annual income in a very speculative stock. (F)
+31. _______ Investing 10% of your annual income in government bonds (treasury bills). (F)
+32. _______ Investing in a business that has a good chance of failing. (F)
+33. _______ Lending a friend an amount of money equivalent to one month’s income. (F)
+34. _______ Moving to a new city. (S)
+35. _______ Never using sunscreen when you sunbathe. (H)
+36. _______ Never wearing a seatbelt. (H)
+37. _______ Not having a smoke alarm in or outside of your bedroom. (H)
+38. _______ Openly disagreeing with your boss in front of your coworkers. (S)
+39. _______ Periodically engaging in a dangerous sport (e.g. mountain climbing or sky diving). (R)
+40. _______ Regularly riding your bicycle without a helmet. (H)
+41. _______ Shoplifting a small item (e.g. a lipstick or a pen). (E)
+42. _______ Smoking a pack of cigarettes per day. (H)
+43. _______ Speaking your mind about an unpopular issue at a social occasion. (S)
+44. _______ Spending money impulsively without thinking about the consequences. (F)
+45. _______ Stealing an additional TV cable connection. (E)
+46. _______ Taking a day’s income to play the slot-machines at a casino. (F)
+47. _______ Taking a job where you get paid exclusively on a commission basis. (F)
+48. _______ Trying bungee jumping. (R)
+49. _______ Using office supplies for your personal business. (E)
+50. _______ Wearing unconventional clothes. (S)
+Note: E=ethical, F=financial, H=health/safety, R=recreational, and S=social items.
+
+beta version
+For each of the following statements, please indicate your likelihood of engaging in each activity or behavior. Provide a rating from 1 to 5, using the following scale:
+1=Very unlikely；2=Unlikely；3=Not sure；4=Likely；5=Very likely
+1. Admitting that your tastes are different from those of your friends. (S) _______
+2. Going camping in the wilderness, beyond the civilization of a campground. (R) _______
+3. Betting a day’s income at the horse races. (G) _______
+4. Buying an illegal drug for your own use. (H) _______
+5. Cheating on an exam. (E) _______
+6. Chasing a tornado or hurricane by car to take dramatic photos. (R) _______
+7. Investing 10% of your annual income in a moderate growth mutual fund. (I) _______
+8. Consuming five or more servings of alcohol in a single evening. (H) _______
+9. Cheating by a significant amount on your income tax return. (E) _______
+10. Disagreeing with your father on a major issue. (S) _______
+11. Betting a day’s income at a high stake poker game. (G) _______
+12. Having an affair with a married man or woman. (E) _______
+13. Forging somebody’s signature. (E) _______
+14. Passing off somebody else’s work as your own. (E) _______
+15. Going on a vacation in a third-world country without prearranged travel and hotel accommodations. (R) _______
+16. Arguing with a friend about an issue on which he or she has a very different opinion. (S) _______
+17. Going down a ski run that is beyond your ability or closed. (R) _______
+18. Investing 5% of your annual income in a very speculative stock. (I) _______
+19. Approaching your boss to ask for a raise. (S) _______
+20. Illegally copying a piece of software. (E) _______
+21. Going whitewater rafting during rapid water flows in the spring. (R) _______
+22. Betting a day’s income on the outcome of a sporting event (e.g. baseball, soccer, or football). (G) _______
+23. Telling a friend if his or her significant other has made a pass at you. (S) _______
+24. Investing 5% of your annual income in a conservative stock. (I) _______
+25. Shoplifting a small item (e.g. a lipstick or a pen). (E) _______
+26. Wearing provocative or unconventional clothes on occasion. (S) _______
+27. Engaging in unprotected sex. (H) _______
+28. Stealing an additional TV cable connection off the one you pay for. (E) _______
+29. Not wearing a seatbelt when being a passenger in the front seat. (H) _______
+30. Investing 10% of your annual income in government bonds (treasury bills). (I) _______
+31. Periodically engaging in a dangerous sport (e.g. mountain climbing or sky diving). (R) _______
+32. Not wearing a helmet when riding a motorcycle. (H) _______
+33. Gambling a week’s income at a casino. (G) _______
+34. Taking a job that you enjoy over one that is prestigious but less enjoyable. (S) _______
+35. Defending an unpopular issue that you believe in at a social occasion. (S) _______
+36. Exposing yourself to the sun without using sunscreen. (H) _______
+37. Trying out bungee jumping at least once. (R) _______
+38. Piloting your own small plane, if you could. (R) _______
+39. Walking home alone at night in a somewhat unsafe area of town. (H) _______
+40. Regularly eating high cholesterol foods. (H) _______
+Note: E=ethical,I=investment,G=gambling,H=health/safety,R=recreational,and S=social items.
+
+
+
+
+对于以下陈述，请指出您参与每项活动的可能性，并使用以下量表给出1至5的评分：
+1=极不可能；3=不确定；5=极有可能
+
+1. _______ 承认你的品味与朋友不同。（社交 S）
+2. _______ 与持有不同观点的朋友争论。（社交 S）
+3. _______ 要求老板加薪。（社交 S）
+4. _______ 在赛马场赌上一天的收入。（财务 F）
+5. _______ 购买非法药物供自己使用。（道德 E）
+6. _______ 驾车追逐龙卷风以拍摄可卖给媒体的照片。（娱乐 R）
+7. _______ 在收入税上大量作弊。（道德 E）
+8. _______ 在考试中作弊。（道德 E）
+9. _______ 为朋友联署新车贷款。（财务 F）
+10. _______ 与同事约会。（社交 S）
+11. _______ 决定与不太了解的人合租公寓。（社交 S）
+12. _______ 与父亲在重大问题上意见不同。（社交 S）
+13. _______ 在过去两小时内喝了三杯酒后驾车回家。（健康 H）
+14. _______ 吃“过期”但“看起来还好”的食品。（健康 H）
+15. _______ 探索未知的城市或城区。（娱乐 R）
+16. _______ 伪造别人的签名。（道德 E）
+17. _______ 频繁豪饮。（健康 H）
+18. _______ 去野外露营。（娱乐 R）
+19. _______ 下一个对你来说太难或关闭的滑雪道。（娱乐 R）
+20. _______ 去肯尼亚狩猎之旅。（娱乐 R）
+21. _______ 在没有提前预订住宿的情况下去外国度假两周。（娱乐 R）
+22. _______ 在春季高水位时进行激流泛舟。（娱乐 R）
+23. _______ 忽略一些持续的身体疼痛而不去看医生。（健康 H）
+24. _______ 非法复制软件。（道德 E）
+25. _______ 服用可能有严重副作用的药物。（健康 H）
+26. _______ 乘坐商业飞机旅行。（娱乐 R）
+27. _______ 剽窃学期论文。（道德 E）
+28. _______ 进行不安全的性行为。（健康 H）
+29. _______ 将年收入的10%投资于蓝筹股。（财务 F）
+30. _______ 将年收入的10%投资于非常投机的股票。（财务 F）
+31. _______ 将年收入的10%投资于政府债券（国库券）。（财务 F）
+32. _______ 投资于有很高失败机会的业务。（财务 F）
+33. _______ 借给朋友相当于一个月收入的钱。（财务 F）
+34. _______ 搬到一个新城市。（社交 S）
+35. _______ 晒太阳时从不使用防晒霜。（健康 H）
+36. _______ 从不系安全带。（健康 H）
+37. _______ 在卧室内外都没有安装烟雾报警器。（健康 H）
+38. _______ 在同事面前公开与老板意见不同。（社交 S）
+39. _______ 定期从事危险运动（如登山或跳伞）。（娱乐 R）
+40. _______ 骑自行车时经常不戴头盔。（健康 H）
+41. _______ 偷窃小物件（如口红或笔）。（道德 E）
+42. _______ 每天抽一包烟。（健康 H）
+43. _______ 在社交场合谈论一个不受欢迎的问题。（社交 S）
+44. _______ 冲动地花钱而不考虑后果。（财务 F）
+45. _______ 窃取额外的有线电视连接。（道德 E）
+46. _______ 花一天的收入去赌场玩吃角子老虎机。（财务 F）
+47. _______ 接受一份仅按佣金支付的工作。（财务 F）
+48. _______ 尝试蹦极跳。（娱乐 R）
+49. _______ 将办公用品用于个人业务。（道德 E）
+50. _______ 穿非常规的衣服。（社交 S）
+注：E=道德，F=财务，H=健康/安全，R=娱乐，S=社交物品。
+
+这是beta版本的问卷：
+
+对于以下陈述，请指出您参与每项活动或行为的可能性。给出1至5的评分，使用以下量表：
+1=非常不可能；2=不太可能；3=不确定；4=可能；5=非常可能
+
+1. _______ 承认你的品味与朋友不同。（社交 S）
+2. _______ 去没有露营地文明的野外露营。（娱乐 R）
+3. _______ 在赛马场赌上一天的收入。（赌博 G）
+4. _______ 购买非法药物供自己使用。（健康 H）
+5. _______ 在考试中作弊。（道德 E）
+6. _______ 驾车追逐龙卷风或飓风以拍摄戏剧性照片。（娱乐 R）
+7. _______ 将年收入的10%投资于中等增长的共同基金。（投资 I）
+8. _______ 一个晚上喝五份或更多的酒精。（健康 H）
+9. _______ 在你的所得税申报表上大量作弊。（道德 E）
+10. _______ 与父亲在重大问题上意见不同。（社交 S）
+11. _______ 在一场高风险的扑克游戏中赌上一天的收入。（赌博 G）
+12. _______ 与已婚男女发生婚外情。（道德 E）
+13. _______ 伪造别人的签名。（道德 E）
+14. _______ 把别人的工作当成自己的。（道德 E）
+15. _______ 去第三世界国家度假，没有预先安排旅行和酒店住宿。（娱乐 R）
+16. _______ 与朋友就他或她非常不同意见的问题争论。（社交 S）
+17. _______ 下一个超出你能力或封闭的滑雪道。（娱乐 R）
+18. _______ 将年收入的5%投资于非常投机的股票。（投资 I）
+19. _______ 向你的老板要求加薪。（社交 S）
+20. _______ 非法复制软件。（道德 E）
+21. _______ 在春季急流期间进行白水漂流。（娱乐 R）
+22. _______ 在体育赛事（如棒球、足球或足球）的结果上赌上一天的收入。（赌博 G）
+23. _______ 告诉你的朋友，他或她的另一半曾向你示好。（社交 S）
+24. _______ 将年收入的5%投资于保守型股票。（投资 I）
+25. _______ 偷窃小物件（如口红或笔）。（道德 E）
+26. _______ 偶尔穿挑逗性或非传统的衣服。（社交 S）
+27. _______ 进行不安全的性行为。（健康 H）
+28. _______ 窃取你付费的额外有线电视连接。（道德 E）
+29. _______ 作为前座乘客时不系安全带。（健康 H）
+30. _______ 将年收入的10%投资于政府债券（国库券）。（投资 I）
+31. _______ 定期从事危险运动（如登山或跳伞）。（娱乐 R）
+32. _______ 骑摩托车时不戴头盔。（健康 H）
+33. _______ 在赌场赌上一周的收入。（赌博 G）
+34. _______ 选择你喜欢的工作而不是有威望但不太愉快的工作。（社交 S）
+35. _______ 在社交场合捍卫你信仰的不受欢迎的问题。（社交 S）
+36. _______ 不使用防晒霜暴露在太阳下。（健康 H）
+37. _______ 至少尝试一次蹦极跳。（娱乐 R）
+38. _______ 如果你能的话，驾驶你自己的小飞机。（娱乐 R）
+39. _______ 在城镇有些不安全的区域夜间独自步行回家。（健康 H）
+40. _______ 经常食用高胆固醇食品。（健康 H）
+注：E=道德，I=投资，G=赌博，H=健康/安全，R=娱乐，S=社交物品。
