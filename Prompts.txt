@@ -21,4 +21,11 @@ Suppose you are a participant in a psychological experiment. For each statement 
 
 
 
-If performing role-playing, start with: 'If you are a [social identity].' The social identity can be a occupation, level of education, or educational background.
+If performing role-playing, start with: 'If you are a [social identity].' The social identity can be a occupation, level of education, or educational background. Can replace the seven-point Likert scale with a five-point scale: **Scale:**
+       1 = Extremely unlikely
+       2 = Unlikely
+       3 = Uncertain
+       4 = Possible
+       5 = Extremely likely
+
+
